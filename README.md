@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anirud25/anirud25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Anirud</h1>
-# 💫 About Me:
+## 💫 About Me:
 <h3 align="center">A passionate Data Science researcher from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirud25&label=Profile%20views&color=0e75b6&style=flat" alt="anirud25" /> </p>
