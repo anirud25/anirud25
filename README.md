@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 My interest areas include **Machine Learning, Natural Language Processing, AI**
 
-- 📫 How to reach me **anirud25@gmail.com**
+- 📫 How to reach me **anirud2502@gmail.com**
 
 - ⚡ Learning something new everyday. 
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirud-r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ImAnirud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirud25@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirud-r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ImAnirud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirud2502@gmail.com) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirud25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
