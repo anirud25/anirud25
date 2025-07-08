@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/imanirud" target="blank"><img src="https://img.shields.io/twitter/follow/imanirud?logo=twitter&style=for-the-badge" alt="imanirud" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **NLP Based Open Source Projects**
 
 - 🔭 My interest areas include **Machine Learning, Natural Language Processing, AI**
 
