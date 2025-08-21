@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 My interest areas include **Machine Learning, Natural Language Processing, AI**
 
-- 📫 How to reach me **anirud2502@gmail.com**
+- 📫 How to reach me **anirud25@gmail.com**
 
 - ⚡ Learning something new everyday. 
 
