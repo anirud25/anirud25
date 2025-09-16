@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/imanirud" target="blank"><img src="https://img.shields.io/twitter/follow/imanirud?logo=twitter&style=for-the-badge" alt="imanirud" /></a> </p>
 
-- 👯 I’m looking to collaborate on **NLP Based Open Source Projects**
+- 👯 I’m looking to collaborate on **AI/ML and NLP Based Open Source Projects**
 
 - 🔭 My interest areas include **Machine Learning, Natural Language Processing, AI**
 
@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=openai&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Transformers](https://img.shields.io/badge/Transformers-005BBB?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
