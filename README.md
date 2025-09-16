@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Transformers](https://img.shields.io/badge/Transformers-005BBB?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
 [![LLaMA-3](https://img.shields.io/badge/LLaMA-3B-222222?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/meta-llama/Llama-3.2-3B)
-[![Phi-2](https://img.shields.io/badge/Phi-2style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/microsoft/phi-2)
+[![Phi-2](https://img.shields.io/badge/Phi-2-style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/microsoft/phi-2)
 [![BLOOM-560M](https://img.shields.io/badge/BLOOM-560M-FF4B4B?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/bigscience/bloom-560m)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
