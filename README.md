@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 [![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=openai&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Transformers](https://img.shields.io/badge/Transformers-005BBB?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
+[![LLaMA-3](https://img.shields.io/badge/LLaMA-3B-222222?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/meta-llama/Llama-3.2-3B)
+[![Phi-2](https://img.shields.io/badge/Phi-2style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/microsoft/phi-2)
+[![BLOOM-560M](https://img.shields.io/badge/BLOOM-560M-FF4B4B?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/bigscience/bloom-560m)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
@@ -61,7 +66,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Oracle DB](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=databricks&logoColor=white)](https://www.oracle.com/database/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
@@ -75,6 +80,8 @@ Here are some ideas to get you started:
 [![SonarQube](https://img.shields.io/badge/SonarQube-000000?style=flat&logo=sonarqube&logoColor=4E9BCD)](https://www.sonarqube.org/)
 [![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
 
 
 
