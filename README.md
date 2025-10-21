@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 [![Transformers](https://img.shields.io/badge/Transformers-005BBB?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers)
 [![LangChain](https://img.shields.io/badge/LangChain-00A6FF?style=flat&logo=langchain&logoColor=white)](https://langchain.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=flat&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-6C5CE7?style=flat)](https://trychroma.com/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-00C2A8?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
-[![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=flat&logo=faiss&logoColor=white)](https://faiss.ai/)
 [![IBM watsonx.ai](https://img.shields.io/badge/watsonx.ai-000000?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/products/watsonx-ai)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
@@ -77,6 +74,11 @@ Here are some ideas to get you started:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-e3792b?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+### 🧩 Vector Databases
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-6C5CE7?style=flat)](https://trychroma.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-00C2A8?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=flat&logo=faiss&logoColor=white)](https://faiss.ai/)
 
 ### 🧱 Databases & Storage
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -110,7 +112,6 @@ Here are some ideas to get you started:
 
 ### ✍️ Documentation & Workflow
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 </td>
 </tr>
