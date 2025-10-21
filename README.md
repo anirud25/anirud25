@@ -78,16 +78,15 @@ Here are some ideas to get you started:
 [![MATLAB](https://img.shields.io/badge/MATLAB-e3792b?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
-
-</td>
-<td width="50%" valign="top">
-
-
 ### 🧱 Databases & Storage
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=databricks&logoColor=white)](https://www.oracle.com/database/)
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+
+</td>
+<td width="50%" valign="top">
+
 
 ### ☁️ Platforms & Dev Tools
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
