@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 [![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=flat&logo=faiss&logoColor=white)](https://faiss.ai/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-00C2A8?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
-<img src="assets/chromadb.svg" alt="ChromaDB" width="20" style="vertical-align:middle"/>
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-6C5CE7?style=flat)](https://trychroma.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=databricks&logoColor=white)](https://www.oracle.com/database/)
