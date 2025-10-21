@@ -63,15 +63,6 @@ Here are some ideas to get you started:
 [![BLOOM-560M](https://img.shields.io/badge/BLOOM-560M-FF4B4B?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/bigscience/bloom-560m)
 [![Gradio](https://img.shields.io/badge/Gradio-3E5AFF?style=flat&logo=gradio&logoColor=white)](https://gradio.app/)
 
-### 🧱 Databases & Storage
-[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=databricks&logoColor=white)](https://www.oracle.com/database/)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📊 Machine Learning & Data Science
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -86,6 +77,17 @@ Here are some ideas to get you started:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-e3792b?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+
+</td>
+<td width="50%" valign="top">
+
+
+### 🧱 Databases & Storage
+[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=databricks&logoColor=white)](https://www.oracle.com/database/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 
 ### ☁️ Platforms & Dev Tools
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
