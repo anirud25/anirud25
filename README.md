@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm Anirud</h1>
 
-<h3 align="center">A Data Science Enthusiast from India.</h3>
+<h3 align="center">A Data Science Enthusiast from Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirud25&label=Profile%20views&color=0e75b6&style=flat" alt="anirud25" /> </p>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **AI/ML and NLP Based Open Source Projects**
 
-- 🔭 My interest areas include **Machine Learning, Natural Language Processing, AI**
+- 🔭 My interest areas include **Machine Learning, Natural Language Processing, Generative AI**
 
 - 📫 How to reach me **anirud25@gmail.com**
 
